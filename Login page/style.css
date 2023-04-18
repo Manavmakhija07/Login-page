@@ -1,0 +1,33 @@
+* {
+    margin: 1%;
+    padding: 1%;
+}
+
+body {
+
+    border: 2px solid black;
+    height: 70%;
+    width: 50%;
+    position: relative;
+    left: 25%;
+    background-color: whitesmoke;
+}
+
+.tickboxes {
+
+    display: inline;
+    color: green;
+
+}
+
+button {
+    background-color: rgba(220, 0, 0, 1);
+    border: 1px;
+    line-height: 2.5;
+    line padding: 0 0px;
+    font-size:1rem;
+    text-align:center;
+    color:white;
+    border-radius:10px;
+    
+}
